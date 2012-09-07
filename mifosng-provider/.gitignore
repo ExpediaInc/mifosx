@@ -6,3 +6,6 @@ repos
 .settings
 .gradle
 *.log
+.idea
+*.iml
+*.ipr
