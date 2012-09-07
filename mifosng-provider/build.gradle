@@ -127,6 +127,8 @@ dependencies {
 	            
 	            [group: 'com.lowagie', name: 'itext', version: '2.1.7'],
 	            [group: 'com.lowagie', name: 'itext-rtf', version: '2.1.7'],
+				
+				[group: 'commons-io', name: 'commons-io', version: '2.4'],
  	        )
  	        
  	 testCompile 'junit:junit:4.10', 
